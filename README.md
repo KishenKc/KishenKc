@@ -96,6 +96,10 @@ I'm seeking an opportunity as a Graduate Software Engineer or Junior Java Develo
 
 https://www.linkedin.com/in/kishenchinasamy
 
+📧 **Email**
+
+kishenkc@icloud.com
+
 💻 **GitHub**
 
 https://github.com/KishenKc
