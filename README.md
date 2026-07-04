@@ -28,7 +28,7 @@
 
 I'm a Software Engineering graduate from Johannesburg, South Africa, passionate about building practical software that solves real-world problems.
 
-My journey into software development has taught me that great solutions don't come from knowing every answer—they come from asking better questions, thinking critically, and continuously improving.
+My journey into software development has taught me that great solutions don't come from knowing every answer, they come from asking better questions, thinking critically, and continuously improving.
 
 I enjoy designing applications from the ground up, solving complex problems, and transforming ideas into working software that creates value.
 
